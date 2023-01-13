@@ -1,0 +1,11 @@
+.box {
+    width: 100px;
+    min-height: 100px;
+    background: orange;
+}
+
+@media (max-widtx:480px) {
+    .box {
+        background-color: green;
+    }
+}
